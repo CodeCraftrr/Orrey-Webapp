@@ -1,0 +1,20 @@
+{
+  "functions": {
+    "source": "functions"  
+  },
+  "database": {
+    "rules": "database.rules.json"  // Path to your Realtime Database security rules
+  },
+  "firestore": {
+    "rules": "firestore.rules",  // Path to your Firestore security rules
+    "indexes": "firestore.indexes.json"  // Path to your Firestore indexes
+  },
+  "hosting": {
+    "public": "public",  // Directory for your static files (if you're using Hosting)
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
