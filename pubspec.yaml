@@ -1,0 +1,64 @@
+name: orrey_web_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0-251.0.dev
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_gl: ^0.0.21
+  http: ^0.13.6
+  three_dart: ^0.0.16
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+      - assets/images/logo.png
+      - assets/images/bg.png
+      - assets/images/bg2.png
+      - assets/images/bg3.jpg
+      - assets/images/astronaut.png
+      - assets/images/usama_khan.png
+      - assets/images/ayesha_mishree.png
+      - assets/images/jawad_usman.png
+      - assets/sun.gif
+      - assets/planets/earth.png
+      - assets/planets/earth.png
+      - assets/planets/jupiter.png
+      - assets/planets/mars.png
+      - assets/planets/venus.png
+      - assets/planets/uranus.png
+      - assets/planets/saturn.png
+      - assets/planets/neptune.png
+      - assets/planets/mercury.png
+      - assets/orbits/orbit_1.png
+      - assets/orbits/orbit_2.png
+      - assets/orbits/orbit_3.png
+      - assets/orbits/orbit_4.png
+      - assets/orbits/orbit_5.png
+      - assets/orbits/orbit_6.png
+      - assets/orbits/orbit_7.png
+      - assets/orbits/orbit_8.png
+      - assets/asteriods/asteriod.png
+      - assets/asteriods/asteriods_belt.png
+
+  fonts:
+    - family: Anton
+      fonts:
+        - asset: assets/fonts/Anton/Anton-Regular.ttf
+
+    - family: Open_Sans
+      fonts:
+        - asset: assets/fonts/Open_Sans/static/OpenSans-Regular.ttf
+        - asset: assets/fonts/Open_Sans/static/OpenSans-Bold.ttf
+        - asset: assets/fonts/Open_Sans/static/OpenSans-Medium.ttf
