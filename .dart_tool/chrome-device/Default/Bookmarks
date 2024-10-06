@@ -1,0 +1,84 @@
+{
+   "checksum": "b3c8062dda792ec49270a126bc635c49",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13277412946798212",
+            "date_last_used": "0",
+            "guid": "09dc1df9-84e5-4132-a878-64263bd1db9d",
+            "id": "6",
+            "name": "WhatsApp Web",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://web.whatsapp.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13277472395930301",
+            "date_last_used": "0",
+            "guid": "b4df3ec6-48ed-4871-8844-02806140ba91",
+            "id": "7",
+            "name": "Discord",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://discord.com/channels/@me",
+            "visit_count": 0
+         }, {
+            "date_added": "13277476763357700",
+            "date_last_used": "0",
+            "guid": "b37e48cf-2322-4aac-ae12-727b0c1c23cc",
+            "id": "8",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13277814748981259",
+            "date_last_used": "0",
+            "guid": "13daca3e-5072-4e3f-b9e5-b3abe3189a93",
+            "id": "9",
+            "name": "TL-WR840N",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://192.168.1.1/",
+            "visit_count": 0
+         } ],
+         "date_added": "13372666094921750",
+         "date_last_used": "0",
+         "date_modified": "13277814748981259",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13372666094921780",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13372666094921784",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCGZBSGCSAQAAKg4QABgBIAAoBTAAOABAABIAKhhrZGVyVHhjZ2prZW9tWlk0dVMyQjBBPT1IA6AGDBKtAQgIEqgBChwyNng0eUNma3VRWDJuWkhmb3pGSFVaRGdzbzg9EiRiMzdlNDhjZi0yMzIyLTRhYWMtYWUxMi03MjdiMGMxYzIzY2MYACAAKAAw07DMtMMvOKil+IXrL0CopfiF6y9KHGpzU0xrcnZlUmg2QWVaa2RXODJDK0c1bjBnST1aHyIdu2IrekExcGRPelhYUnM3ZWxqS1NubFNaMkdEUT1lOPk5M8I+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDIzODVhYjRjLTZlMTYtNTAwNC1iNDgwLWE2OTU5ZjBmYThhMxgAIAAoADCxg4rwki84n574hesvQJ+e+IXrL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ4MTg2YzgwYy04ZjEwLTUwZjUtYTlhYS05YTlhOGQ1ZGFkNDcYACAAKAAwsYOK8JIvOM6e+IXrL0DOnviF6y9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrQEICRKoAQocZ2RWdVp1b1JGNXN4R3RhdHNoekdhNk90eEpBPRIkMTNkYWNhM2UtNTA3Mi00ZTNmLWI5ZTUtYjNhYmUzMTg5YTkzGAAgACgAMJ/B4dXELziip/iF6y9Aoqf4hesvShxqQmhacmswSTFvbzRPU254OStEeWMvaDY4TDQ9Wh8iHd1iVy9QYXl3YnBTcEY4dU1SNDU1YUlzYVVEbWM9ZS9ZUJ3CPgJgBRKsAQgHEqcBChxDOEJyTlU4eVgxNUsxeHdZZVhnYnZYekhYZDg9EiRiNGRmM2VjNi00OGVkLTQ4NzEtODg0NC0wMjgwNjE0MGJhOTEYACAAKAAwzdGanOgvOOiv+IXrL0Dor/iF6y9KHHd3dkJEUjByWGRURkR6ZCs3Rm9xUEd3aE02bz1aHiIcd1I2UlhCdW9RSEJ1SjJZcjY3UlZ4N0JyQm8wPWVSCdHjwj4CYAUSrAEIBhKnAQocaUEyZlJGeUdqNHFLUWozOUJBUlNqUGFza3U0PRIkMDlkYzFkZjktODRlNS00MTMyLWE4NzgtNjQyNjNiZDFkYjlkGAAgACgAMJy33tHmLziar/iF6y9Amq/4hesvShw5Nk9LelhhVGhSOHNkZFQrNXdteDUwTjd3eWM9Wh4iHC9kUDNRVlhvTjhZbkVkV3BGQWo4bC94Y0Z4bz1l/dYgcsI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGQ2YmM5MzNmLWQyNTQtNWU3Ny1hNmVmLTFmZWJiOTUzNTcyYhgAIAAoADCxg4rwki847Z74hesvQO2e+IXrL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
